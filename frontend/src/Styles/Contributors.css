@@ -1,0 +1,100 @@
+.contributors-section {
+  padding: 32px;
+  margin: 0 0 32px 0;
+  text-align: center;
+  background-color: white;
+}
+.contributors-title-content {
+  margin: 0 0 64px 0;
+}
+.contributors-title {
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0.7px;
+}
+.contributors-title > span {
+  position: relative;
+}
+.contributors-title span::before {
+  content: "";
+  position: absolute;
+  width: 98%;
+  height: 4px;
+  background-color: #9d2553;
+  border-radius: 8px;
+  left: 2.5px;
+  bottom: -12px;
+}
+.contributors-description {
+  margin: 64px auto 0;
+  text-align: center;
+  color: rgb(77, 75, 75);
+  font-family: "Rubik", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: 1.8rem;
+}
+/* contributors Cards */
+.contributors-cards-content {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch; /* Align items to stretch vertically */
+  gap: 50px;
+}
+
+.contributors-card {
+  width: 332px;
+  display: flex; /* Change display to flex */
+  flex-direction: column; /* Align items in a column */
+  gap: 16px;
+  text-align: left;
+  font-family: "Rubik", sans-serif;
+}
+
+.contributors-card-img {
+  flex: 1; /* Allow image container to grow to fill remaining space */
+  padding: 16px 32px 0;
+  background-position: center;
+  background-color: #dde5f8;
+  border-radius: 20px;
+}
+
+.contributors-card-name {
+  margin: 12px 0 0;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 0.7px;
+}
+
+.contributors-card-title {
+  margin: 0; /* Remove top margin */
+  color: #494949;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.7px;
+}
+
+.contributors-card-stars {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.7px;
+}
+.contributors-card-reviews {
+  color: #5a5a5a;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.7px;
+}
+/* Responsive */
+@media screen and (max-width: 700px) {
+  .contributors-title {
+    font-size: 32px;
+  }
+  .contributors-description {
+    margin: 48px 0 0;
+    font-size: 18px;
+  }
+}
