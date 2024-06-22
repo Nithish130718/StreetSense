@@ -24,7 +24,7 @@ Street Sense is designed to revolutionize urban mobility by forecasting traffic 
 
 ## Technologies Used
 
-- **Frontend**: ReactJS, Material-UI
+- **Frontend**: ReactJS
 - **Backend**: Flask, Flask-CORS, Flask-SocketIO
 - **Mapping and Geolocation**: Mapbox API, MapboxGL, Geopy, Nominatim, OpenRouteService
 - **Data Structures**: LinkedList, Quad Tree
