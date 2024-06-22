@@ -8,8 +8,8 @@ Street Sense is an innovative application designed to enhance urban mobility by 
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [Project Demo](#license)
+7. [Contributing](#project-demo)
 
 ## Introduction
 
@@ -95,13 +95,15 @@ Street Sense is designed to revolutionize urban mobility by forecasting traffic 
 
 7. Monitor real-time updates for dynamic traffic conditions.
 
+## Project Demo 
+
+A project demo of the 
+   - site can be seen here - https://vimeo.com/965215160?share=copy
+   - map component can be seen here - https://vimeo.com/965196690?share=copy
+
 ## Contributing
 
 We welcome contributions to improve Street Sense! Please fork the repository and create a pull request with your changes. Ensure your code follows the existing style and includes tests where applicable.
-
-## License
-
-Street Sense is open-source software licensed under the MIT License. See the LICENSE file for more information.
 
 ---
 
