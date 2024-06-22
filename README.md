@@ -8,8 +8,8 @@ Street Sense is an innovative application designed to enhance urban mobility by 
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Project Demo](#license)
-7. [Contributing](#project-demo)
+6. [Project Demo](#project-demo)
+7. [Contributing](#contributing)
 
 ## Introduction
 
